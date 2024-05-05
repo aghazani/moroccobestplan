@@ -1,13 +1,13 @@
 {
-  "order": 1,
-  "articleSlug": "culinary-delights",
+  "order": 2,
+  "articleSlug": "cultural-immersion",
   "meta": {
-    "title": "Culinary delights",
+    "title": "Cultural Immersion",
     "description": "dor f maghrib",
     "keywords": "morocco, plan your trip, transportation"
   },
 
-  "title": "Culinary delights",
+  "title": "Cultural Immersion",
 
   "content": "this is the content"
 }

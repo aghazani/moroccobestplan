@@ -1,0 +1,27 @@
+.logo {
+  display: flex;
+  flex-direction: column;
+  width: max-content;
+}
+
+.logo h1 {
+  font-weight: 900;
+  @apply text-6xl text-neutral-600;
+  @apply mb-2;
+}
+
+.logo h2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  @apply gap-2;
+}
+
+.logo img {
+  width: 4em;
+}
+
+.logo h2 span {
+  @apply text-4xl text-neutral-600;
+}

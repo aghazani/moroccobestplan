@@ -1,13 +1,13 @@
 {
-  "order": 1,
-  "articleSlug": "culinary-delights",
+  "order": 3,
+  "articleSlug": "packing-guide",
   "meta": {
-    "title": "Culinary delights",
+    "title": "Packing Guide",
     "description": "dor f maghrib",
     "keywords": "morocco, plan your trip, transportation"
   },
 
-  "title": "Culinary delights",
+  "title": "Packing Guide",
 
   "content": "this is the content"
 }

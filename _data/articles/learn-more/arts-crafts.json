@@ -1,12 +1,13 @@
 {
-  "articleSlug": "travel-tips",
+  "order": 3,
+  "articleSlug": "arts-crafts",
   "meta": {
-    "title": "Travel tips",
+    "title": "Arts and Crafts",
     "description": "dor f maghrib",
     "keywords": "morocco, plan your trip, transportation"
   },
 
-  "title": "Travel tips",
+  "title": "Arts and Crafts",
 
   "content": "this is the content"
 }

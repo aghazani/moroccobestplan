@@ -24,12 +24,12 @@ const loadData = () => {
     if (group.groupSlug) {
       groups.push({
         ...group,
-        articles,
+        articles: articles.sort((a, b) => a.order - b.order),
       })
     }
   }
 
-  return groups
+  return groups.sort((a, b) => a.order - b.order)
 }
 
 export const getGroups = () => {

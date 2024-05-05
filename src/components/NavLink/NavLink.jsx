@@ -17,7 +17,7 @@ export default function NavLink({
   const pathname = usePathname()
   const exactPath = activeHref === pathname
   const startWith = !exact && pathname.startsWith(activeHref)
-  console.log(exactPath, startWith, pathname, activeHref)
+
   return (
     <Link
       href={href}

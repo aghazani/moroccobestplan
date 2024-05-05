@@ -1,13 +1,13 @@
 {
-  "order": 1,
-  "articleSlug": "culinary-delights",
+  "order": 2,
+  "articleSlug": "architecture",
   "meta": {
-    "title": "Culinary delights",
+    "title": "Architecture",
     "description": "dor f maghrib",
     "keywords": "morocco, plan your trip, transportation"
   },
 
-  "title": "Culinary delights",
+  "title": "Architecture",
 
   "content": "this is the content"
 }
