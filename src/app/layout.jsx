@@ -7,12 +7,14 @@ export const metadata = {
   keywords: 'too',
 }
 
+import css from './layout.module.css'
+
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body>
         <Header />
-        {children}
+        <main className={css.main}>{children}</main>
       </body>
     </html>
   )

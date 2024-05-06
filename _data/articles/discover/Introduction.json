@@ -1,6 +1,7 @@
 {
   "order": 1,
   "articleSlug": "introduction",
+
   "meta": {
     "title": "Introduction to Morocco",
     "description": "dor f maghrib",
@@ -9,5 +10,19 @@
 
   "title": "Introduction to Morocco",
 
-  "content": "this is the content"
+  "introduction": "Welcome to Morocco, where ancient traditions blend seamlessly with modernity, and vibrant cultures converge against a backdrop of stunning landscapes. From the bustling medinas of Marrakech to the serene sands of the Sahara, Morocco is a country that captures the imagination and ignites the spirit of adventure.",
+  "shortIntroduction": "A blend of tradition and modernity.",
+
+  "images": {
+    "card": "",
+    "banner": ""
+  },
+
+  "content": [
+    {
+      "title": "Section title",
+      "paragraphs": ["this is a paragraph"],
+      "images": ["this is an image"]
+    }
+  ]
 }

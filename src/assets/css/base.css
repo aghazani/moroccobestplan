@@ -9,4 +9,5 @@ html {
   font-family: 'Inter', sans-serif;
 
   @apply text-neutral-800;
+  @apply bg-neutral-50;
 }

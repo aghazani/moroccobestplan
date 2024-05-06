@@ -1,0 +1,14 @@
+.heroSection {
+  display: flex;
+  justify-content: center;
+
+  @apply py-12;
+}
+
+.heroSection p {
+  font-weight: 200;
+  max-width: 800px;
+  text-align: center;
+
+  @apply text-xl text-neutral-500;
+}

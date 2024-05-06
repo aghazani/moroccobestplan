@@ -18,7 +18,7 @@
   grid-column: span 1;
   grid-row: span 4;
 
-  background-image: url('../../assets/images/layouts/headerGallery/image-1.jpg');
+  background-image: url('../../assets/images/layouts/headerGallery/mock/image-1.jpg');
 }
 
 .headerGallery div:nth-child(2) {
@@ -26,26 +26,26 @@
   grid-row: span 1;
 
   background-position: top center;
-  background-image: url('../../assets/images/layouts/headerGallery/image-2.jpg');
+  background-image: url('../../assets/images/layouts/headerGallery/mock/image-2.jpg');
 }
 
 .headerGallery div:nth-child(3) {
   grid-column: span 1;
   grid-row: span 1;
 
-  background-image: url('../../assets/images/layouts/headerGallery/image-3.jpg');
+  background-image: url('../../assets/images/layouts/headerGallery/mock/image-3.jpg');
 }
 
 .headerGallery div:nth-child(4) {
   grid-column: span 1;
   grid-row: span 1;
 
-  background-image: url('../../assets/images/layouts/headerGallery/image-4.jpg');
+  background-image: url('../../assets/images/layouts/headerGallery/mock/image-4.jpg');
 }
 
 .headerGallery div:nth-child(5) {
   grid-column: span 2;
   grid-row: span 2;
 
-  background-image: url('../../assets/images/layouts/headerGallery/image-5.jpg');
+  background-image: url('../../assets/images/layouts/headerGallery/mock/image-5.jpg');
 }

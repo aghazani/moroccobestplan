@@ -26,7 +26,9 @@ export default async function Article({ params }) {
   return (
     <article>
       <h1 className="text-4xl p-4">{article.title}</h1>
-      <section className="p-4 whitespace-pre-wrap">{article.content}</section>
+      <section className="p-4 whitespace-pre-wrap">
+        {article.introduction}
+      </section>
     </article>
   )
 }
