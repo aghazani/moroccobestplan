@@ -12,5 +12,33 @@
   "introduction": "In Morocco, language is more than just a means of communication—it's a reflection of the country's diverse heritage. From the lyrical melodies of Arabic to the rhythmic cadence of Berber, and the poetic elegance of French, language serves as a bridge between cultures, inviting travelers to immerse themselves in the beauty of linguistic diversity.",
   "shortIntroduction": "Linguistic diversity enriches.",
 
-  "content": "this is the content"
+  "images": {
+    "card": "",
+    "banner": {
+      "url": "/media/mock/discover-language-communication.jpg",
+      "caption": "Road Sign Marrakech, Morocco"
+    }
+  },
+
+  "content": [
+    {
+      "title": "Language Diversity",
+      "paragraphs": [
+        "Morocco is a linguistically diverse country, with Arabic as the official language and Berber widely spoken in rural areas. Additionally, French is commonly used in business, government, and education, making it a valuable language to know when traveling in Morocco."
+      ]
+    },
+    {
+      "title": "Basic Arabic Phrases",
+      "paragraphs": [
+        "Learning a few basic Arabic phrases can enhance your experience in Morocco. Here are some essential phrases to get you started:",
+        "- Salaam Alaikum (Hello)\n- Shukran (Thank you)\n- Laa shukran (No thank you)\n- Min fadlak (Please)\n- Sabaa al-khair (Good morning)\n- Masa al-khair (Good evening)"
+      ]
+    },
+    {
+      "title": "Language Etiquette",
+      "paragraphs": [
+        "Moroccans appreciate visitors who make an effort to speak their language. While many locals speak French, attempting to communicate in Arabic or learning a few phrases in Berber can go a long way in fostering goodwill and building connections with the people you meet during your travels."
+      ]
+    }
+  ]
 }

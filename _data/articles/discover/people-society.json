@@ -1,0 +1,49 @@
+{
+  "order": 3,
+  "articleSlug": "people-society",
+  "meta": {
+    "title": "People and Society",
+    "description": "dor f maghrib",
+    "keywords": "morocco, plan your trip, transportation"
+  },
+
+  "title": "People and Society",
+
+  "introduction": "The heart of Morocco lies in its people, whose warmth and hospitality welcome visitors from around the globe. Rich in cultural heritage and tradition, the Moroccan society is a tapestry of Berber, Arab, and African influences, where time-honored customs intersect with modern lifestyles.",
+  "shortIntroduction": "Warmth and hospitality abound.",
+
+  "images": {
+    "card": "",
+    "banner": {
+      "url": "/media/mock/discover-people-society.jpg",
+      "caption": "Jemaa el fna Marrakech, Morocco"
+    }
+  },
+
+  "content": [
+    {
+      "title": "Warm Hospitality",
+      "paragraphs": [
+        "Moroccans are renowned for their warm hospitality, which is deeply ingrained in the culture. Visitors to Morocco often find themselves welcomed with open arms by locals eager to share their traditions and customs. Whether you're exploring the narrow alleyways of a medina or enjoying a cup of mint tea in a local café, you'll be greeted with genuine kindness and generosity.",
+        "Hospitality in Morocco extends beyond mere politeness—it's a way of life. Moroccans take pride in making guests feel at home, whether they're inviting them to share a meal with their family or offering guidance and assistance to travelers in need. This sense of hospitality creates lasting connections and unforgettable experiences for visitors to Morocco.",
+        "The hospitality in Morocco is not limited to social interactions but extends to accommodations as well. From luxurious riads to cozy guesthouses, visitors are treated like honored guests, with hosts going above and beyond to ensure their comfort and satisfaction."
+      ]
+    },
+    {
+      "title": "Cultural Diversity",
+      "paragraphs": [
+        "Morocco's rich cultural tapestry is woven from a diverse array of influences, including Arab, Berber, African, and European traditions. This cultural melting pot is evident in every aspect of Moroccan life, from its architecture and cuisine to its music and festivals.",
+        "Throughout history, Morocco has been a crossroads of civilizations, welcoming traders, scholars, and travelers from around the world. This exchange of ideas and cultures has left an indelible mark on Moroccan society, creating a unique blend of customs and traditions that is both fascinating and dynamic.",
+        "One of the most striking aspects of Moroccan culture is its celebration of diversity and tolerance. Despite the myriad influences that have shaped Moroccan identity, the country remains a beacon of coexistence and harmony, where people of different backgrounds and beliefs live side by side in mutual respect."
+      ]
+    },
+    {
+      "title": "Strong Family Bonds",
+      "paragraphs": [
+        "Family is the cornerstone of Moroccan society, with strong bonds and close-knit communities playing a central role in daily life. Respect for elders and loyalty to one's family are deeply ingrained values that shape Moroccan culture.",
+        "In Moroccan households, family gatherings are cherished occasions where multiple generations come together to share meals, stories, and laughter. Whether it's celebrating religious holidays, weddings, or births, family events are marked by warmth, generosity, and a sense of unity.",
+        "The concept of family extends beyond blood relations in Morocco, with friends and neighbors often considered as part of the extended family. This sense of community fosters solidarity and support, ensuring that no one is left behind in times of need."
+      ]
+    }
+  ]
+}

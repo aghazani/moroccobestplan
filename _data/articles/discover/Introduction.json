@@ -14,15 +14,55 @@
   "shortIntroduction": "A blend of tradition and modernity.",
 
   "images": {
-    "card": "",
-    "banner": ""
+    "card": "/media/mock/discover-introduction.jpg",
+    "banner": {
+      "url": "/media/mock/discover-introduction.jpg",
+      "caption": "Bouregreg river Rabat-Salé, Morocco"
+    }
   },
 
   "content": [
     {
-      "title": "Section title",
-      "paragraphs": ["this is a paragraph"],
-      "images": ["this is an image"]
+      "title": "Morocco: A Land of Mesmerizing Contrasts",
+      "paragraphs": [
+        "Nestled in North Africa, Morocco beckons travelers with its enchanting blend of ancient traditions and contemporary influences. This captivating country is a kaleidoscope of experiences waiting to be discovered.",
+        "Let's embark on a journey to unravel the secrets of Morocco, where every step unveils a new layer of its rich tapestry."
+      ]
+    },
+    {
+      "title": "Vibrant Culture and Heritage",
+      "paragraphs": [
+        "Morocco's cultural heritage is a testament to its diverse history, shaped by the legacies of Berber, Arab, and European civilizations. From the vibrant medinas of Marrakech to the serene oases of the Sahara Desert, Morocco is a living museum of human ingenuity and creativity.",
+        "Step into the past as you wander through ancient kasbahs, explore labyrinthine souks, and immerse yourself in the rhythms of traditional music and dance."
+      ]
+    },
+    {
+      "title": "Exotic Landscapes",
+      "paragraphs": [
+        "Morocco's landscapes are as varied as they are breathtaking, offering a paradise for nature enthusiasts and adventurers alike. Traverse the rugged peaks of the Atlas Mountains, where snow-capped summits stand in stark contrast to verdant valleys teeming with life.",
+        "Venture into the heart of the Sahara Desert, where endless stretches of golden sands and towering dunes create a surreal landscape that seems to stretch on forever."
+      ]
+    },
+    {
+      "title": "Enchanting Cities",
+      "paragraphs": [
+        "Morocco's cities are vibrant tapestries of history and culture, where ancient traditions mingle with modern sensibilities. Lose yourself in the labyrinthine streets of Fez's medina, where artisans ply their trade in centuries-old workshops.",
+        "Marvel at the architectural wonders of Casablanca, where the Hassan II Mosque stands as a testament to the country's Islamic heritage and artistic prowess."
+      ]
+    },
+    {
+      "title": "Warm Hospitality and Welcoming People",
+      "paragraphs": [
+        "One of the hallmarks of Moroccan culture is its warm hospitality and welcoming spirit. From the moment you set foot in Morocco, you'll be greeted with smiles and open arms, as locals eagerly share their culture, traditions, and cuisine with visitors.",
+        "Whether you're enjoying a home-cooked tagine with a local family or bargaining for treasures in a bustling souk, you'll find that the warmth and generosity of the Moroccan people leave a lasting impression."
+      ]
+    },
+    {
+      "title": "Gateway to Africa",
+      "paragraphs": [
+        "Situated at the crossroads of Africa, Europe, and the Middle East, Morocco has long been a melting pot of cultures and civilizations. This strategic location has shaped Morocco into a vibrant hub of creativity, innovation, and cultural exchange.",
+        "Explore the dynamic arts scene of Marrakech, indulge in the tantalizing flavors of Moroccan cuisine, or embark on a culinary adventure through the bustling streets of Rabat."
+      ]
     }
   ]
 }

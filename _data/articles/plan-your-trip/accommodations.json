@@ -12,5 +12,43 @@
   "introduction": "From luxurious riads tucked away in ancient medinas to cozy guesthouses overlooking the Sahara, Morocco offers a myriad of accommodation options to suit every taste and budget. Whether you're seeking opulent splendor or rustic charm, the country's diverse lodging choices ensure a comfortable and memorable stay.",
   "shortIntroduction": "Diverse choices for stay.",
 
-  "content": "this is the content"
+  "content": [
+    {
+      "title": "Diverse Accommodation Options",
+      "paragraphs": [
+        "When it comes to accommodations in Morocco, there's something to suit every taste and budget. From luxurious hotels and riads to budget-friendly guesthouses and traditional Berber tents, visitors are spoiled for choice when it comes to finding the perfect place to stay.",
+        "Here are some of the most popular types of accommodations you can find in Morocco, along with examples of each."
+      ]
+    },
+    {
+      "title": "Hotels and Riads",
+      "paragraphs": [
+        "Morocco is home to a wide range of hotels, from international chains to boutique establishments, offering luxurious amenities and world-class service. For a truly authentic experience, consider staying in a traditional riad, such as Riad Farnatchi in Marrakech or Riad Yasmine in Fez."
+      ]
+    },
+    {
+      "title": "Guesthouses and Bed & Breakfasts",
+      "paragraphs": [
+        "For a more intimate and personalized experience, consider staying in a guesthouse or bed & breakfast. Run by friendly local hosts, these accommodations offer a warm welcome and a chance to immerse yourself in Moroccan hospitality. Examples include Dar Seffarine in Fez and Dar Najat's Kitchen in Marrakech."
+      ]
+    },
+    {
+      "title": "Hostels and Backpacker Lodges",
+      "paragraphs": [
+        "Traveling on a budget? Hostels and backpacker lodges are a popular choice for budget-conscious travelers, offering affordable accommodations in dormitory-style rooms or private bedrooms. Examples include Equity Point Hostel in Marrakech and The Blue House Hostel in Chefchaouen."
+      ]
+    },
+    {
+      "title": "Camps and Desert Lodges",
+      "paragraphs": [
+        "For a unique and adventurous experience, consider spending a night under the stars in a desert camp or lodge. Located in the heart of the Sahara Desert, these accommodations offer a chance to experience traditional Berber hospitality and witness the magic of the desert night sky. Examples include Erg Chebbi Luxury Desert Camp and Sahara Sky Luxury Camp."
+      ]
+    },
+    {
+      "title": "Homestays and Eco-Lodges",
+      "paragraphs": [
+        "For travelers seeking a deeper connection to the local culture and environment, homestays and eco-lodges offer an immersive experience. Stay with a local family in their home or unwind in an eco-friendly lodge nestled in the Atlas Mountains, and discover the true beauty of Morocco. Examples include Dar Ayur in Chefchaouen and Kasbah du Toubkal in the Atlas Mountains."
+      ]
+    }
+  ]
 }

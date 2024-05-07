@@ -12,5 +12,47 @@
   "introduction": "Morocco is a land of remarkable diversity, where towering mountains, sweeping deserts, and pristine coastline coexist within its borders. Explore the rugged Atlas Mountains, lose yourself in the maze-like streets of ancient medinas, or unwind on the sun-drenched beaches of the Atlantic and Mediterranean coasts.",
   "shortIntroduction": "Mountains, deserts, and coastline.",
 
-  "content": "this is the content"
+  "images": {
+    "card": "",
+    "banner": {
+      "url": "/media/mock/discover-diverse-landscapes.jpg",
+      "caption": "Tamnougalt, Morocco"
+    }
+  },
+
+  "content": [
+    {
+      "title": "Majestic Atlas Mountains",
+      "paragraphs": [
+        "The Atlas Mountains, stretching over 1,600 miles, stand as a majestic backbone running through Morocco. With their stunning peaks, verdant valleys, and dense forests, they offer a playground for adventurers and nature lovers alike.",
+        "Embark on exhilarating hikes through rugged terrain, where each step reveals breathtaking vistas of snow-capped summits and crystal-clear streams. In winter, the Atlas Mountains transform into a winter wonderland, attracting skiers and snowboarders to its pristine slopes.",
+        "Whether you're trekking to remote Berber villages, exploring ancient trails, or simply marveling at the sheer grandeur of nature, the Atlas Mountains promise an unforgettable journey into the heart of Morocco's wilderness."
+      ]
+    },
+    {
+      "title": "Enigmatic Sahara Desert",
+      "paragraphs": [
+        "The Sahara Desert, spanning the southern reaches of Morocco, is a mesmerizing expanse of endless sand dunes and vast, open spaces. As the largest hot desert in the world, it beckons adventurers and explorers to discover its hidden treasures and ancient secrets.",
+        "Experience the magic of the Sahara on a camel trek through rolling dunes, where the silence of the desert is broken only by the soft padding of camel feet on sand. Spend nights under a canopy of stars, camping amidst the tranquility of the desert, and awaken to breathtaking sunrises that paint the horizon in hues of gold and pink.",
+        "From the towering dunes of Erg Chebbi to the remote oases of the Draa Valley, the Sahara Desert invites you to lose yourself in its vastness and discover the timeless beauty of Morocco's desert landscape."
+      ]
+    },
+    {
+      "title": "Coastal Paradise",
+      "paragraphs": [
+        "Morocco's coastline is a haven for beach lovers and water enthusiasts, boasting miles of pristine sandy beaches washed by the waters of the Atlantic Ocean and the Mediterranean Sea. From secluded coves to bustling resort towns, the Moroccan coast offers a diverse range of experiences for travelers seeking sun, sea, and relaxation.",
+        "Indulge in the laid-back atmosphere of coastal villages, where fishermen haul in their daily catch and colorful boats bob gently in the harbor. Explore hidden caves and rugged cliffs, or simply bask in the warm glow of the Mediterranean sun as you sip on refreshing mint tea.",
+        "For the more adventurous, the Moroccan coast offers a wealth of water sports opportunities, from surfing and windsurfing to kiteboarding and paddleboarding. Whether you're seeking adrenaline-fueled thrills or tranquil moments of solitude, Morocco's coastal paradise has something for everyone."
+      ]
+    },
+    {
+      "title": "Tranquil Oases",
+      "paragraphs": [
+        "Nestled amidst the arid landscapes of southern Morocco, tranquil oases offer a welcome respite from the harsh desert environment. Here, lush greenery thrives in stark contrast to the surrounding desert, creating havens of tranquility and beauty.",
+        "Explore ancient villages and fortified kasbahs, where time seems to stand still amidst crumbling mud-brick walls and labyrinthine alleyways. Wander through palm groves and verdant gardens, where the sound of trickling water echoes through the air.",
+        "In the heart of these oases, discover the warmth and hospitality of the local Berber communities, who have thrived in these harsh conditions for centuries. Share a cup of sweet mint tea with newfound friends, and listen to tales of desert life passed down through generations.",
+        "From the sweeping dunes of the Sahara to the rugged peaks of the Atlas Mountains, Morocco's landscapes are as diverse as they are breathtaking, offering endless opportunities for exploration and discovery."
+      ]
+    }
+  ]
 }
